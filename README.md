@@ -2,4 +2,4 @@
 
 mi primer repositorio
 
-i like race f1, music
+i like race f1, music.
